@@ -1,0 +1,4 @@
+ status of python: python --version
+ installation of django: pip install Django ==2.7.1
+ status of django: python -m django --version
+ to run the projet: python manage.py runserver
