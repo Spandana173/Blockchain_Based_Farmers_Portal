@@ -1,87 +1,87 @@
-# 🌾 Blockchain-Based Farmer's Portal
+#  Blockchain-Based Farmer's Portal
 
 ## 📖 Project Overview
 A **decentralized e-commerce platform** for agricultural crop trading using **blockchain technology**. This system enables secure, transparent transactions between farmers and buyers while **eliminating intermediaries** to ensure fair pricing for farmers.
 
 ---
 
-## ✨ Key Features
+##  Key Features
 
-### 🔐 Secure User Management
+###  Secure User Management
 - **Role-based authentication** for farmers, buyers, and administrators
 - **Admin approval system** for new registrations
 - **Secure credential management**
 
-### 🛒 Crop Marketplace
+###  Crop Marketplace
 - **Farmers can list crops** with detailed descriptions and pricing
 - **Real-time inventory management**
 - **Advanced search and filtering** capabilities
 
-### ⛓️ Blockchain Integration
+###  Blockchain Integration
 - **All transactions recorded** on immutable blockchain
 - **Cryptographic hashing** for security
 - **Transparent transaction history**
 - **Tamper-proof records**
 
-### 🛍️ Shopping Experience
+###  Shopping Experience
 - **Intuitive shopping cart** system
 - **Seamless checkout process**
 - **Order history tracking**
 
-### 👨‍💼 Admin Dashboard
+###  Admin Dashboard
 - **Comprehensive user management**
 - **Transaction monitoring**
 - **System analytics and oversight**
 
 ---
 
-## 🛠️ Technology Stack
+## Technology Stack
 
-### 💻 Backend
-- **Python** 🐍
+###  Backend
+- **Python** 
 - **Django Framework**
 - **SQLite Database**
 
-### 🔗 Blockchain
+###  Blockchain
 - **Custom blockchain implementation**
 - **Cryptographic security**
 - **Immutable transaction ledger**
 
-### 🎨 Frontend
+###  Frontend
 - **HTML5 & CSS3**
 - **JavaScript**
 - **Responsive design**
 
-### 🔒 Security
+###  Security
 - **Django authentication system**
 - **Role-based access control**
 - **Data encryption**
 
 ---
 
-## 🏗️ System Architecture
+##  System Architecture
 
-### 👥 User Roles
+###  User Roles
 
-#### 🌱 Farmers/Sellers
+####  Farmers/Sellers
 - **Register and manage** crop listings
 - **Update crop information** and pricing
 - **View transaction history**
 - **Monitor sales performance**
 
-#### 🛒 Buyers
+####  Buyers
 - **Browse available crops** with filters
 - **Add items to cart** and purchase
 - **View order history**
 - **Track transactions** on blockchain
 
-#### ⚡ Administrators
+####  Administrators
 - **Activate/deactivate users**
 - **Monitor all transactions**
 - **View blockchain records**
 - **System maintenance**
 
-### ⛓️ Blockchain Implementation
+###  Blockchain Implementation
 - **Each transaction creates a new block**
 - **Blocks contain**: transaction details, timestamps, cryptographic hashes
 - **Immutable record** of all marketplace activities
@@ -89,14 +89,14 @@ A **decentralized e-commerce platform** for agricultural crop trading using **bl
 
 ---
 
-## 🚀 Installation & Setup
+##  Installation & Setup
 
-### 📋 Prerequisites
-- **Python 3.8+** 🐍
+###  Prerequisites
+- **Python 3.8+** 
 - **Django 3.0+**
 - **Web browser** with JavaScript support
 
-### 🔧 Installation Steps
+###  Installation Steps
 
 1. **Clone the repository**
    git clone https://github.com/spandana173/farmers-portal.git
