@@ -1,6 +1,6 @@
 #  Blockchain-Based Farmer's Portal
 
-## 📖 Project Overview
+##  Project Overview
 A **decentralized e-commerce platform** for agricultural crop trading using **blockchain technology**. This system enables secure, transparent transactions between farmers and buyers while **eliminating intermediaries** to ensure fair pricing for farmers.
 
 ---
